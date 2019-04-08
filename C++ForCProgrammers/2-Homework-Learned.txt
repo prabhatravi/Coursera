@@ -1,0 +1,11 @@
+In this homework I've initially implemented the Graph Class using adjacency matrix. Then, I've implemented PriorityQueue Class and MonteCarlo Class. After all work done, I decided to rewrite the Graph Class using adjacency list. It took me only few minutes to do that and it was not necessary to change anything in other classes. That experience showed me how important is encapsulation when your are coding.  
+So, in this homework I've learned:
+- how to implement a class and its methods and atributes in C++;
+- how encapsulation can isolate internal method coding details from the rest of the code and how important this is;
+- how to create may own data structures and how to overload operators to use with my own structures;
+- how to use STL vector to implement matrix;
+- how to use STL list to implement linked lists;
+- how to implement graphs using adjacency matrix and adjacency list;
+- how to implement priority queues;
+- how to implement Dijkstra's Shortest Path Algorithm;
+- how to generate random graphs and run Monte Carlo simulations.
